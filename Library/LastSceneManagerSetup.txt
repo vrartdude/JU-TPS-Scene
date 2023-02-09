@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Julhiecio TPS Controller/Demo Scenes/Playground Mobile.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
