@@ -118,6 +118,8 @@
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Polarith/AI/Plugins/Editor/Polarith.AI.Editor.dll"
+-r:"Assets/Polarith/AI/Plugins/Polarith.AI.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -452,6 +454,12 @@
 "Assets/Julhiecio TPS Controller/Editor/Editor Scripts/Create Functions/JUTPSCreate.cs"
 "Assets/Julhiecio TPS Controller/Editor/Editor Scripts/Helper Tools/ThankYouMessage.cs"
 "Assets/Julhiecio TPS Controller/Editor/Editor Scripts/Helper Tools/WeaponCreator.cs"
+"Assets/Polarith/AI/Examples/Editor/AircraftControllerEditor.cs"
+"Assets/Polarith/AI/Examples/Editor/CopterControllerEditor.cs"
+"Assets/Polarith/AI/Examples/Editor/EnvironmentUpdaterEditor.cs"
+"Assets/Polarith/AI/Examples/Editor/ObjectSpawnerEditor.cs"
+"Assets/Polarith/AI/Examples/Editor/SpaceShipControllerEditor.cs"
+"Assets/Polarith/AI/Examples/Editor/VehiclePhysicsEditor.cs"
 -langversion:9.0
 
 /deterministic
